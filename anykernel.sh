@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Protium Kernel by Vedraj Gawas
+kernel.string=Vertex-Evolved by Mayuresh
 do.devicecheck=1
 device.name1=moonstone
 device.name2=sunstone
