@@ -10,6 +10,7 @@ device.name1=moonstone
 device.name2=sunstone
 device.name3=gemstone
 device.name4=stone
+device.name5=bloodstone
 do.cleanup=1
 '; } # end properties
 
