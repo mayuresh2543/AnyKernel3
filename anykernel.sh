@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Vertex-Evolved by Mayuresh
+kernel.string=Vertex Awakened by Mayuresh
 do.devicecheck=1
 device.name1=moonstone
 device.name2=sunstone
 device.name3=gemstone
 device.name4=stone
+device.name5=bloodstone
 do.cleanup=1
 '; } # end properties
-
 
 ### AnyKernel install
 # boot shell variables
